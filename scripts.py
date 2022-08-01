@@ -24,25 +24,25 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
+╭────[🔅MY GROUP🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/RenameProRobot'>📚 Rename-Pro-bot 🇮🇳</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 Update Channel : <a href='https://t.me/Tamil_Astrology'>நன்பர்கள் குழு 🇮🇳</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Support Channel : <a href='https://t.me/Tamil_Panchangam'>🌞 பஞ்சாங்கம் 🌞</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
+├<b>💢 Group Info : <a href='https://t.me/Aanmeekam'>தமிழன் ஆன்மீகம் குழு</a></b>
 │
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+├<b>🌐 Channel Info : <a href='https://t.me/aedaham_library_noolakam'>ஏடகம் library குழு 🇮🇳</a></b>
 │
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
+├<b>📕 Tamil Mp3 : <a href='https://t.me/Tamil_jukebox_songs/'>Tamil jukebox Song's</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+├<b>㊙ Jallikattu Group : <a href='https://t.me/Tamilnadu_Jallikattu'>தமிழ்நாடு ஜல்லிக்கட்டு</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/PXMEDIA_RAJANGAM'>RAJANGAM</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Admin Contact : <a href='https://t.me/tamil_message_bot'>Admin Message 🇮🇳</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
@@ -53,14 +53,14 @@ class Scripted(object):
     CURRENT_THUMBNAIL = "<i>𝐘𝐨𝐮𝐫 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 🎭</i>"
     THUMBNAIL_SAVED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐚𝐯𝐞𝐝 ✅</i>"
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
-    NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (Konsi Goals Chahiye)😔</i>"
+    NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @Tamil_Support</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @TeleRoid14 😑</i>"
+    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @Tamil_Support 😑</i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ Click Here]</a></b>"
